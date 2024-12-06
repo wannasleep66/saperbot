@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "puppeteer": "^23.10.1",
+    "ts-node": "^10.9.2"
+  },
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
